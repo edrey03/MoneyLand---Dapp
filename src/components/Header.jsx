@@ -227,16 +227,39 @@ function Header() {
                             <Link to="/">Home</Link>
                         </li>
                         <li>
-                            <Link to="/invest">Invest</Link>
+                            <Link to="/invest">Trade</Link>
                         </li>
                         <li>
-                            <Link to="/Withdraw">Withdraw</Link>
+                            <Link to="/Withdraw">ONI Farms</Link>
                         </li>
                         <li>
-                            <Link to="/refers">Refers</Link>
+                            <Link to="/refers">Pools</Link>
                         </li>
                         <li>
-                            <Link to="/user">Profile</Link>
+                            <Link to="/https://github.com/Mr-DecodeBlock/lottery">Lotery</Link>
+                        </li>
+                        <li>
+                            <Link to="/user">NFT Market</Link>
+                        </li>
+                         <li>
+                            <Link to="/user">Audit</Link>
+                        </li>
+                        <li>
+                            <Link to="/user">Invite & Earn</Link>
+                        </li>
+                         <li>
+                            <Link to="/user">Team and Profile</Link>
+                        </li>
+                         <li>
+                            <Link to="/user">Analytics</Link>
+                        </li>
+                        <li>
+                            <Link to="/user">IFO</Link>
+                        </li>
+                        <li>
+                            <button 
+                                    className = "connect-button"
+                                    onClick = { async () => await login() }>Juegos</button>
                         </li>
                         <li>
                             { isLogged ?  <button 
