@@ -236,7 +236,7 @@ function Header() {
                             <Link to="/refers">Pools</Link>
                         </li>
                         <li>
-                            <Link href="/https://github.com/Mr-DecodeBlock/lottery">Lotery</Link>
+                            <Link <ahref="/https://github.com/Mr-DecodeBlock/lottery">>Lotery</Link>
                         </li>
                         <li>
                             <Link to="/user">NFT Market</Link>
