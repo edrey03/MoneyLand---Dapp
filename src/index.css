@@ -211,7 +211,8 @@ footer {
 
 .cards-buttons, .allow-buttons {
   color: white;
-  background-image: linear-gradient(to right top, #af10b7, #c900a7, #de0097, #ee0086, #f90a76);
+  background-image: linear-gradient(to right top, #a5a9f8, #8389f6, #4a52f2, #1019db, #0e3ce5
+);
   font-weight: bolder;
 }
 
@@ -221,7 +222,7 @@ footer {
 
 .connect-button {
   padding: 0.5rem !important;
-  color: #f90a76;
+  color: #0e3ce5;
   background-color: white;
 }
 
