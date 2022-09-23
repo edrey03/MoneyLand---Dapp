@@ -60,7 +60,7 @@ header > nav > ul > li > a:hover {
 
 .user-fields {
   color: white;
-  border: 2.5px solid #f90a76;
+  border: 2.5px solid #0e3ce5;
   background: transparent;
   font-weight: bolder;
   height: 1.5rem;
@@ -171,7 +171,7 @@ article {
 
 .card {
   color: white;
-  background: #7b1fa2;
+  background: #0e3ce5;
   padding: 1rem;
   border-radius: 5px;
   margin: 1.5rem auto auto auto;
@@ -288,7 +288,7 @@ footer {
 }
 
 .color-dolar {
-  color: #f90a76;
+  color: #0e3ce5;
   font-weight: bolder;
 }
 
@@ -362,9 +362,9 @@ footer {
   background: #171717;
   padding: 1.5rem;
   border-radius: 5px;
-  border: 3.5px solid #f90a76;
+  border: 3.5px solid #0e3ce5;
   margin: auto;
-  box-shadow: 0 0 15px #f90a76;
+  box-shadow: 0 0 15px #0e3ce5;
 }
 
 .go-to-landing {
@@ -398,7 +398,7 @@ footer {
 
 .withdraws {
   padding: 0 0 2rem 0;
-  box-shadow: 0 0 15px #f90a76;
+  box-shadow: 0 0 15px #0e3ce5;
 }
 
 @media only screen and (max-width: 768px) {
