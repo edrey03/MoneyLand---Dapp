@@ -214,8 +214,8 @@ function Header() {
     return (
         <>
             <header>
-                <input type="checkbox" id="btn-menu">
-                <label for="btn-menu"><img src="" alt=""></label>
+                 <div class="barra">
+                 <h2>Menu<img src="menu.png" alt=""></h2>
                 <nav>
                     <ul>
                         <li>
@@ -277,6 +277,7 @@ function Header() {
                         </li>
                     </ul>
                 </nav>
+                </div>
             </header>
         </>
     );
