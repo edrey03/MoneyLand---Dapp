@@ -66,13 +66,13 @@ function Home () {
 
     return (
         <div className="container-page-home">
-            <h1 className="welcome-tag">WELCOME TO YOUR BEST INVEST CHOICE!</h1>
+            <h1 className="welcome-tag">Welcome to MoneyLand, your best option!</h1>
             <div className="banners">
                 <img 
                     className="banner-img"
                     src="../assets/banner-img3.png" 
-                    alt="Infinity Banner" 
-                    title="Infinity Banner" />
+                    alt="MoneyLand" 
+                    title="MoneyLand" />
                 <div className="dashboard">
                     <div className="refer-link-zone">
                         <div className="header-refer-zone">
