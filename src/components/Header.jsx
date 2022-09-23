@@ -220,8 +220,8 @@ function Header() {
                             <img 
                                 className="logo"
                                 src='./assets/logo/materialize-logo.png'
-                                alt="Infinity Block" 
-                                title="Infinity Block" />
+                                alt="Money Land" 
+                                title="Money Land" />
                         </li>
                         <li>
                             <Link to="/">Home</Link>
@@ -236,7 +236,7 @@ function Header() {
                             <Link to="/refers">Pools</Link>
                         </li>
                         <li>
-                            <Link to="/https://github.com/Mr-DecodeBlock/lottery">Lotery</Link>
+                            <Link href="/https://github.com/Mr-DecodeBlock/lottery">Lotery</Link>
                         </li>
                         <li>
                             <Link to="/user">NFT Market</Link>
