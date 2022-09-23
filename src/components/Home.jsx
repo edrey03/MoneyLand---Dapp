@@ -71,8 +71,8 @@ function Home () {
                 <img 
                     className="banner-img"
                     src="../assets/banner-img3.png" 
-                    alt="MoneyLand" 
-                    title="MoneyLand" />
+                    alt="Money Land" 
+                    title="Money Land" />
                 <div className="dashboard">
                     <div className="refer-link-zone">
                         <div className="header-refer-zone">
