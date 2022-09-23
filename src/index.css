@@ -53,7 +53,7 @@ header > nav > ul > li > a:hover {
   margin: auto;
   gap: 2rem;
   width: 20rem;
-  box-shadow: 0 0 15px #f90a76;
+  box-shadow: 0 0 15px #0e3ce5;
   border-radius: 3.5px;
   padding: 2rem;
 }
@@ -98,8 +98,8 @@ article {
   flex-direction: column;
   margin: auto;
   text-align: center;
-  background: #3949ab;
-  box-shadow: 0 0 15px #3949ab;
+  background: #0e3ce5;
+  box-shadow: 0 0 15px #0e3ce5;
   color: white;
 }
 
@@ -121,7 +121,7 @@ article {
 .invest-inputs {
   color: white;
   border-radius: 3.5px;
-  border: 3.5px solid #f90a76;
+  border: 3.5px solid #0e3ce5;
   background: transparent;
   font-weight: bolder;
 }
@@ -180,7 +180,7 @@ article {
   flex-direction: column;
   gap: 10px;
   min-height: 7.5rem;
-  box-shadow: 0 0 15px #7b1fa2;
+  box-shadow: 0 0 15px #0e3ce5;
 }
 
 .fields-invest {
@@ -195,7 +195,7 @@ article {
 }
 
 .card > p {
-  box-shadow: 0 0 15px #f90a76;
+  box-shadow: 0 0 15px #0e3ce5;
 }
 
 footer {
