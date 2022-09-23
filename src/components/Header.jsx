@@ -259,7 +259,7 @@ function Header() {
                         <li>
                             <button 
                                     className = "connect-button"
-                                    onClick = { async () => await login() }>Juegos</button>
+                                    onClick = "window.location.href='https://github.com/Mr-DecodeBlock/zims'">Juegos</button>
                         </li>
                         <li>
                             { isLogged ?  <button 
