@@ -216,67 +216,19 @@ function Header() {
             <header>
                  <div class="barra">
                  <h2>Menu<img src="menu.png" alt=""></h2>
-                <nav>
-                    <ul>
-                        <li>
+         <ul>
+                <li>
                             <img 
                                 className="logo"
                                 src='./assets/logo/materialize-logo.png'
                                 alt="Money Land" 
                                 title="Money Land" />
                         </li>
-                        <li>
-                            <Link to="/">Home</Link>
-                        </li>
-                        <li>
-                            <Link to="/invest">Trade</Link>
-                        </li>
-                        <li>
-                            <Link to="/Withdraw">ONI Farms</Link>
-                        </li>
-                        <li>
-                            <Link to="/refers">Pools</Link>
-                        </li>
-                        <li>
-                            <Link <ahref="/https://github.com/Mr-DecodeBlock/lottery">>Lotery</Link>
-                        </li>
-                        <li>
-                            <Link to="/user">NFT Market</Link>
-                        </li>
-                         <li>
-                            <Link to="/user">Audit</Link>
-                        </li>
-                        <li>
-                            <Link to="/user">Invite & Earn</Link>
-                        </li>
-                         <li>
-                            <Link to="/user">Team and Profile</Link>
-                        </li>
-                         <li>
-                            <Link to="/user">Analytics</Link>
-                        </li>
-                        <li>
-                            <Link to="/user">IFO</Link>
-                        </li>
-                        <li>
-                            <button 
-                                    className = "connect-button"
-                                    onClick = "window.location.href='https://github.com/Mr-DecodeBlock/zims'">Juegos</button>
-                        </li>
-                        <li>
-                            { isLogged ?  <button 
-                                    className = "connect-button"
-                                    disabled = { isLoging }
-                                    onClick = { async () => await logout() }>Disconnect</button>
-                                :
-                                <button 
-                                    className = "connect-button"
-                                    disabled = { isLoging }
-                                    onClick = { async () => await login() }>Connect Wallet</button>
-                            }
-                        </li>
-                    </ul>
-                </nav>
+                <li><a href="/">Home</a></li>
+                <li><a href="">Trade</a></li>
+                <li id=ultimoelemento><a href="Todo lo que deberias saber de HTML.html">HTML y CSS</a></li>   
+            </ul>
+                        
                 </div>
             </header>
         </>
