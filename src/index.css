@@ -314,8 +314,8 @@ footer {
 }
 
 .refer-link-zone {
-  border: 3.5px solid #de0097;
-  box-shadow: 0 0 15px #f90a76;
+  border: 3.5px solid #0e3ce5;
+  box-shadow: 0 0 15px #0e3ce5;
   border-radius: 5px;
   background: #1c1c1c;
   color: white;
@@ -371,7 +371,8 @@ footer {
   width: 12.5rem;
   height: 3rem;
   border-radius: 5px;
-  background-image: linear-gradient(to right top, #af10b7, #c900a7, #de0097, #ee0086, #f90a76);
+  background-image: linear-gradient(to right top, #b2c2fa, #a4b6f9, #6584f6 #1847f1, #0e3ce5
+);
   font-weight: bolder;
   color: white;
   border: none;
